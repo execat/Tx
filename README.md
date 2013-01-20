@@ -13,6 +13,10 @@ This is NOT the version that is uploaded. The on-site version (that might or mig
 * Removed blog folder because the only modification I made to it was the theme to match with the index.html theme (Flatpress installation)
 * Uploading the minified as well as non-minified versions of the CSS and JS.
 
+Demo:
+-----
+The demo of the layout can be seen [here](http://execat.github.com/Tx).
+
 CSS and JS:
 -----------
 * CSS:
